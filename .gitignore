@@ -2,8 +2,4 @@
 .vscode/
 fxproject.json
 zard/node_modules/
-<<<<<<< HEAD
 zard/package-lock.json
-=======
-zard/package-lock.json
->>>>>>> 8f7a2caf760b9ade3d303d9756e700e4ecb9a631
