@@ -1,0 +1,5 @@
+.fxdk/
+.vscode/
+fxproject.json
+zard/node_modules/
+zard/package-lock.json
