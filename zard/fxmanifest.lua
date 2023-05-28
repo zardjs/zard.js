@@ -17,3 +17,5 @@ server_scripts {
 files{
     'configs/config.json'
 }
+
+dependency 'yarn'
