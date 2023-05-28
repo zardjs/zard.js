@@ -1,7 +1,5 @@
-.git/
 .fxdk/
 .vscode/
-zard/node_modules/
 fxproject.json
-package-lock.json
-README.md
+zard/node_modules/
+zard/package-lock.json
