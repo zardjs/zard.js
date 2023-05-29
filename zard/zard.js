@@ -3,8 +3,14 @@ const sequelize = require('./configs/database');
 const  readConfig  = require('./common/utils');
 const { checkAndCreateTables } = require('./common/create_tables');
 
-
-
+console.log(" ______                  _      _");
+console.log("|___  /                 | |    (_)");
+console.log("   / /   __ _  _ __   __| |     _  ___");
+console.log("  / /   / _` || '__| / _` |    | |/ __|");
+console.log("./ /___| (_| || |   | (_| | _  | |\__ \\");
+console.log("\\_____/\\__,_||_|  \\__,_|(_) | ||___/");
+console.log("                              _/ |");
+console.log("                             |__/");
 
 class Zard {
   constructor() {
