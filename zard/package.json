@@ -1,7 +1,7 @@
 {
   "name": "zard-framework",
   "version": "0.0.1",
-  "author": "Marcos - Zard",
+  "author": "Zard - Team",
   "license": "GPL-3.0",
   "dependencies": {
     "mysql2": "3.2.0",
