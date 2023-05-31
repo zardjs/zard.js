@@ -4,15 +4,16 @@ version '0.0.1'
 author 'Zard Framework'
 
 client_scripts {
-    'client/*',
     'zard.js'
 }
 
 server_scripts {
-	'zard.js'
+    'zard.js',
+    'server/*'
 }
 
 files{
     'configs/config.json'
 }
+
 dependency 'yarn'
