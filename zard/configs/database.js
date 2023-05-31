@@ -8,4 +8,4 @@ const sequelize = new Sequelize(database, user, password, {
   logging: false
 });
 
-module.exports = sequelize;
+module.exports = { sequelize, Op: Sequelize.Op };
