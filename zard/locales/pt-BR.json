@@ -1,0 +1,9 @@
+{
+	"errorLoadingConfig": "Erro ao carregar as configurações",
+	"errorInitializingFramework": "Erro ao inicializar o framework",
+	"errorInitializingDatabase": "Erro ao inicializar o banco de dados",
+	"errorSyncingDatabase": "Erro ao sincronizar o banco de dados",
+	"databaseConnectionSuccess": "Conexão com o banco de dados estabelecida com sucesso!",
+	"databaseSyncSuccess": "Banco de dados sincronizado com sucesso!"
+  }
+  
