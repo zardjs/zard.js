@@ -1,4 +1,5 @@
 {
+  "debug": true,
     "language": "pt-BR",
     "database": {
       "host": "localhost",
